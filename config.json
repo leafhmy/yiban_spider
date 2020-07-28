@@ -1,0 +1,35 @@
+{
+    "headers": {
+        "Host": "www.yiban.cn",
+        "Connection": "keep-alive",
+        "User-Agent": "",
+        "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+        "Origin": "http://www.yiban.cn",
+        "Referer": "",
+        "Cookie": ""
+    },
+    "form_data": {
+        "channel_id": "",
+        "puid": "",
+        "page": "1",
+        "size": "10",
+        "orderby": "updateTime",
+        "Sections_id": "-1",
+        "need_notice": "0",
+        "group_id": "",
+        "my": "0"
+    },
+    "data": {
+        "title": true,
+        "clicks": true,
+        "upCount": true,
+        "replyCount": true,
+        "createTime": true,
+        "Sections_name": false,
+        "updateTime": false,
+        "replyTime": false,
+        "content": false,
+        "url": false,
+        "images": false
+    }
+}
